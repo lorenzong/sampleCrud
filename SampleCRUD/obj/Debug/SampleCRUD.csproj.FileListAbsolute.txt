@@ -1,0 +1,11 @@
+C:\Users\Lorenz\source\repos\SampleCRUD\SampleCRUD\bin\Debug\SampleCRUD.exe.config
+C:\Users\Lorenz\source\repos\SampleCRUD\SampleCRUD\bin\Debug\SampleCRUD.exe
+C:\Users\Lorenz\source\repos\SampleCRUD\SampleCRUD\bin\Debug\SampleCRUD.pdb
+C:\Users\Lorenz\source\repos\SampleCRUD\SampleCRUD\obj\Debug\SampleCRUD.csprojResolveAssemblyReference.cache
+C:\Users\Lorenz\source\repos\SampleCRUD\SampleCRUD\obj\Debug\SampleCRUD.MainForm.resources
+C:\Users\Lorenz\source\repos\SampleCRUD\SampleCRUD\obj\Debug\SampleCRUD.Properties.Resources.resources
+C:\Users\Lorenz\source\repos\SampleCRUD\SampleCRUD\obj\Debug\SampleCRUD.csproj.GenerateResource.Cache
+C:\Users\Lorenz\source\repos\SampleCRUD\SampleCRUD\obj\Debug\SampleCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Lorenz\source\repos\SampleCRUD\SampleCRUD\obj\Debug\SampleCRUD.exe
+C:\Users\Lorenz\source\repos\SampleCRUD\SampleCRUD\obj\Debug\SampleCRUD.pdb
+C:\Users\Lorenz\source\repos\SampleCRUD\SampleCRUD\obj\Debug\SampleCRUD.Forms.Customer.resources
